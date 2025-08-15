@@ -9,3 +9,5 @@ e os planos que estão em destaque.Logo abaixo as principais devocionais do dia.
 
 tela de criação de planos, e devocionais. para caso do usuario ser um autor.
 perfil com dados de planos e devocionais completas, e versiculos compartilhados. 
+
+projeto ainda em fase de criação.
